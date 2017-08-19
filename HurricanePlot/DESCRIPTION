@@ -1,0 +1,12 @@
+Package: HurricanePlot
+Type: Package
+Title: Create Hurricane Plots
+Version: 0.1.0
+Author: Satyajit Sarangdhar
+Maintainer: <satyajit1512@gmail.com>
+Description: Create a hurricane geom layer to plot on a ggplot object.
+Imports:dplyr,magrittr,ggplot2,readr,tidyr,stringr,geosphere,ggmap
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
